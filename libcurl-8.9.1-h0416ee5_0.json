@@ -1,0 +1,52 @@
+{
+  "build": "h0416ee5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libssh2 >=1.10.0",
+    "libssh2 >=1.10.0,<2.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0",
+    "zlib >=1.2.13,<1.3.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libcurl-8.9.1-h0416ee5_0",
+  "files": [
+    "Library/bin/libcurl.dll",
+    "Library/include/curl/curl.h",
+    "Library/include/curl/curlver.h",
+    "Library/include/curl/easy.h",
+    "Library/include/curl/header.h",
+    "Library/include/curl/mprintf.h",
+    "Library/include/curl/multi.h",
+    "Library/include/curl/options.h",
+    "Library/include/curl/stdcheaders.h",
+    "Library/include/curl/system.h",
+    "Library/include/curl/typecheck-gcc.h",
+    "Library/include/curl/urlapi.h",
+    "Library/include/curl/websockets.h",
+    "Library/lib/libcurl.exp",
+    "Library/lib/libcurl.lib",
+    ".nonadmin"
+  ],
+  "fn": "libcurl-8.9.1-h0416ee5_0.conda",
+  "license": "curl",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libcurl-8.9.1-h0416ee5_0",
+    "type": 1
+  },
+  "md5": "a49c47137a05a65e052b919d055d2ae6",
+  "name": "libcurl",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libcurl-8.9.1-h0416ee5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::libcurl==8.9.1=h0416ee5_0[md5=a49c47137a05a65e052b919d055d2ae6]",
+  "sha256": "a10c8d80859fac0cf77c4aafc55121b351783019d9e4431096966d42f71f7a8a",
+  "size": 380634,
+  "subdir": "win-64",
+  "timestamp": 1725033449000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libcurl-8.9.1-h0416ee5_0.conda",
+  "version": "8.9.1"
+}
